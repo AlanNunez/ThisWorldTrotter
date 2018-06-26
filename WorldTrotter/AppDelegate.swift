@@ -1,8 +1,6 @@
 //
 //  AppDelegate.swift
 //  WorldTrotter
-//
-//  Created by Cristopher Nunez on 15/5/18.
 //  Copyright © 2018 com.example.flia. All rights reserved.
 //
 
